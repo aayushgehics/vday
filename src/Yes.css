@@ -1,0 +1,8 @@
+.yes{
+    background-image: url('./gif.gif');
+    background-size: cover;
+    position: relative;
+    color: black;
+    height: 700px;
+    width: 100%;
+}
